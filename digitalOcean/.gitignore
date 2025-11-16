@@ -1,0 +1,6 @@
+*.tfvars
+.terraform.tfstate.*
+*.tfstates.*
+terraform.tfstate
+terraform.tfstate.*
+.terraform
